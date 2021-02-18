@@ -1,6 +1,6 @@
 # GEOG 458: Map Design and Tile Generation
 
-[Hosted Webmap](https://gtjrrui.github.io/geog458-mapdesign)
+[Hosted Webmap](https://gtjrrui.github.io/geog458-mapdesign/)
 
 ## Screenshots of the 4 tiles
 
