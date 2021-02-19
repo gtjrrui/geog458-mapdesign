@@ -30,4 +30,4 @@ The area that was observed is the Seattle area. Specifically, the given data inv
 
 ### Available Zoom Areas
 
-All tiles have a minimum zoom of 4 and a maximum zoom of 16.
+All tiles have a minimum zoom of 8 and a maximum zoom of 16.
